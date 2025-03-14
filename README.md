@@ -28,7 +28,7 @@
 [2025免费下载shadowrocket小火箭图文](https://github.com/wangzai69/shadowrocket)
 
 <details>
-  <summary>点击展开/折叠内容</summary>
+  <summary>查看更多外链</summary>
   
 [2025翻墙软件如何使用详细图文教程](https://github.com/wangzai69/wiki)
 
