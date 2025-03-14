@@ -1,4 +1,4 @@
-# Twitter推特下载安装账号解除敏感
+# Twitter推特下载账号解除敏感
 
 ![Android](https://img.shields.io/badge/安卓-Android-brightgreen)
 ![Windows](https://img.shields.io/badge/微软-Windows-blue)
