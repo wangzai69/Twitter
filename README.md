@@ -41,6 +41,8 @@
 - 安卓在谷歌商店安装 [2025官方谷歌框架GooglePlay商店服务](https://github.com/wangzai69/GooglePlay) 
 - 苹果请参照 → [2025免费下载shadowrocket小火箭图文](https://github.com/wangzai69/shadowrocket) 在苹果商店安装
 - 推特账号购买：
+- [谷歌账号1](https://www.henduohao.com/)
+- [谷歌账号2](https://accsou.com/)
 
 ### 解除敏感<br>
 必须在 <a href="https://twitter.com" target="_blank">Twitter官网</a> 里按照图片操作解除后，退出Twitter后台重新进入即可
