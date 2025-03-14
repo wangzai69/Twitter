@@ -37,9 +37,11 @@
 
 <br>
 
-## IOS（适用＞16.4系统）
-- 安卓需安装 <a onclick="jump('7')" class="button" style="color: #fff; background-color: #0665d0; padding: 5px 15px; border-radius: 3px;">谷歌框架</a> 在谷歌商店下载。
-- 苹果直接用美区ID下载。
+## Twitter安装
+- 安卓在谷歌商店安装 [2025官方谷歌框架GooglePlay商店服务](https://github.com/wangzai69/GooglePlay) 
+- 苹果请参照 → [2025免费下载shadowrocket小火箭图文](https://github.com/wangzai69/shadowrocket) 在苹果商店安装
+- 推特账号购买：
+
 ### 解除敏感<br>
 必须在 <a href="https://twitter.com" target="_blank">Twitter官网</a> 里按照图片操作解除后，退出Twitter后台重新进入即可
 
