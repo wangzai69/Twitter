@@ -49,7 +49,7 @@
 - 图3：选择 `Content you see`
 - 图4：勾选 `Display medla that may contain sensltlve content`
 
-<img src="./images/twitter/11.png">
+![图片描述](https://github.com/wangzai69/Twitter/blob/main/images/11.png?raw=true)
 
 
 <br>
