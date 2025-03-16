@@ -4,8 +4,8 @@
 #
 
 #### Twitter（X）安装
-- 安卓在谷歌商店安装 [2025官方谷歌框架GooglePlay商店服务](https://github.com/wangzai69/GooglePlay) 
-- 苹果在商店安装请参照 → [2025免费下载shadowrocket小火箭图文](https://github.com/wangzai69/shadowrocket)
+- 安卓在谷歌商店安装 [官方谷歌框架GooglePlay商店服务](https://github.com/wangzai69/GooglePlay) 
+- 苹果在商店安装请参照 → [免费下载shadowrocket小火箭图文](https://github.com/wangzai69/shadowrocket)
 
 #### Twitter（X）账号推荐
 - [谷歌账号1](https://www.henduohao.com/)
